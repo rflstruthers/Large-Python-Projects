@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mainapp",
+    "\\mainapp\\assets",
+    "\\mainapp\\assets\\css",
+    "\\mainapp\\assets\\images",
+    "\\mainapp\\assets\\js",
+    "\\mainapp\\products",
+    "\\mainapp\\products\\templates",
+    "\\mainapp\\products\\templates\\products",
+    "\\mainapp\\templates"
+  ],
+  "SelectedNode": "\\mainapp\\products\\templates\\products\\createRecord.html",
+  "PreviewInSolutionExplorer": false
+}
