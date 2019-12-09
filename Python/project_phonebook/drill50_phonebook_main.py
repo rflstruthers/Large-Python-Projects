@@ -1,31 +1,4 @@
-#!/usr/bin/python
-"""
-    #!/usr/bin/python
-    It's a recommended way, proposed in documentation:
-    2.2.2. Executable Python Scripts.
-    In a Unix-like operating system, the program loader
-    takes the presence of these two characters as an
-    indication that the file is a script, and tries to
-    execute that script using the interpreter specified
-    by the rest of the first line in the file.
-"""
-# -*- coding: utf-8 -*-
-"""
-    # -*- coding: utf-8 -*-
-    This sets the charset if it is present on the first two lines of the file.
-    this is Syntax to declare the encoding of a Python source file. It's discussed
-    in PEP 0263 - Defining Python Source Code Encodings.
-    https://www.python.org/dev/peps/pep-0263/
-"""
-#
-# Python Ver:   3.5.1
-#
-# Author:       Daniel A. Christie
-#
-# Purpose:      Phonebook Demo. Demonstrating OOP, Tkinter GUI module,
-#               using Tkinter Parent and Child relationships.
-#
-# Tested OS:  This code was written and tested to work with Windows 10.
+
 
 
 from tkinter import *
